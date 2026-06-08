@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,8 +55,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
