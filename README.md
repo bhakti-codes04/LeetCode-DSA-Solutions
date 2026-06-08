@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,9 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
