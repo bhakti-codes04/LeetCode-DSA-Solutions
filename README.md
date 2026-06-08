@@ -34,4 +34,5 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 <!---LeetCode Topics End-->
