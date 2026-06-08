@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
