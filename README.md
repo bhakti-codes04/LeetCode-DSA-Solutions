@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,5 +46,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
