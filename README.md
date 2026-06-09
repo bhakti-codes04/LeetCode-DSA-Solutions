@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
