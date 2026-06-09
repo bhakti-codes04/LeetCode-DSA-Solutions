@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0443-string-compression) |
 ## String
