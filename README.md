@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0443-string-compression) |
 ## String
