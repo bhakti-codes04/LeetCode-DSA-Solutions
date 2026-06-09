@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
