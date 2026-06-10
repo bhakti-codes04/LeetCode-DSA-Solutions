@@ -22,6 +22,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhakti-codes04/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
